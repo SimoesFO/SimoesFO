@@ -5,9 +5,9 @@ Sou um entusiasta na área de tecnologia, Mestre em Ciência da Computação, e 
 
 Comecei a programar em 2006 quando iniciei o curso de técnico em informática, e atuo profissionalmente como desenvolvedor de software desde 2011. Buscando sempre entregar os melhores resultados, respeitando os prazos e procurando aplicar as melhores práticas e padrões de desenvolvimento do mercado.
 
-E estou sempre em busca de novos desafios e crescimento profissional. 
+🌱 Estou sempre em busca de novos desafios e crescimento profissional. 
 
-## Tecnologias & Ferramentas.
+## :computer: Tecnologias & Ferramentas.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" title="PHP" width="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" width="45" />
@@ -26,7 +26,7 @@ E estou sempre em busca de novos desafios e crescimento profissional.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="45" />
 </div>
 
-## Contatos
+## 📫 Contatos
 <div align='center'>
   <a href="https://www.linkedin.com/in/felipeoliveirasimoes/"><img src="https://realweb.lv/wp-content/uploads/2020/07/Linkedin-Logo.png" alt="https://www.linkedin.com/in/felipeoliveirasimoes/" title="https://www.linkedin.com/in/felipeoliveirasimoes/" width="80" /></a>
   
