@@ -3,10 +3,11 @@
 
 Sou um entusiasta na área de tecnologia, Mestre em Ciência da Computação, e Bacharel em Sistemas de Informação.
 
-Comecei a programar em 2006 quando iniciei o curso de técnico em informática, e atuo profissionalmente como desenvolvedor de software desde 2011, 
-quando conseguir me primeira estágio.
+Comecei a programar em 2006 quando iniciei o curso de técnico em informática, e atuo profissionalmente como desenvolvedor de software desde 2011. Buscando sempre entregar os melhores resultados, respeitando os prazos e procurando aplicar as melhores práticas e padrões de desenvolvimento do mercado.
 
-## Tecnologias & Ferramentas
+E estou sempre em busca de novos desafios e crescimento profissional. 
+
+## Tecnologias & Ferramentas.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" title="PHP" width="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" width="45" />
@@ -27,7 +28,8 @@ quando conseguir me primeira estágio.
 
 ## Contatos
 <div align='center'>
-  <a href="https://www.linkedin.com/in/felipeoliveirasimoes/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="https://www.linkedin.com/in/felipeoliveirasimoes/" title="https://www.linkedin.com/in/felipeoliveirasimoes/" width="80" /></a>
+  <a href="https://www.linkedin.com/in/felipeoliveirasimoes/"><img src="https://realweb.lv/wp-content/uploads/2020/07/Linkedin-Logo.png" alt="https://www.linkedin.com/in/felipeoliveirasimoes/" title="https://www.linkedin.com/in/felipeoliveirasimoes/" width="80" /></a>
+  
 </div>
 
 <!---
