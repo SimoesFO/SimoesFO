@@ -1,5 +1,5 @@
 ## 👋 Felipe O. Simões
-<b><h4>Analista de Sistemas & Desenvolvedor de Software</h4></b>
+<b><h4>Desenvolvedor de Software & Tech Lead</h4></b>
 
 Sou um entusiasta na área de tecnologia, Mestre em Ciência da Computação, e Bacharel em Sistemas de Informação.
 
